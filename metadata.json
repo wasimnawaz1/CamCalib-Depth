@@ -1,0 +1,6 @@
+{
+  "name": "CamCalib Depth",
+  "description": "Mobile camera calibration with manual parameter locking and stereo depth estimation using OpenCV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
